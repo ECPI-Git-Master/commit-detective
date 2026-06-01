@@ -21,3 +21,7 @@ git log
 git log --oneline
 git show <commit-id>
 git status
+
+## Reminder
+
+Always check your GitHub repozitory before submitting work.
