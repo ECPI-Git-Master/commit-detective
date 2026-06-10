@@ -11,3 +11,4 @@ Current Status:
 - Verify inventory
 - Update contact information
 - Review deployment process
+- Schedule maintenance window
