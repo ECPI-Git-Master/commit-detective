@@ -3,3 +3,6 @@ helpdesk@example.com
 
 Operations
 operations@example.com
+
+Security Team
+security@example.com
