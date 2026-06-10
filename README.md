@@ -1,28 +1,10 @@
-# Week 1 Commit Detective Repo
+# Commit Detective
 
-This repository is used for practicing Git history review.
+This repository contains a fictional project used for Git history analysis.
 
-Students will use Git commands to inspect commits, compare changes, and evaluate commit messages.
+Students will investigate commit history and determine:
 
-## Goals
-
-By the end of this activity, students should be able to:
-
-- Clone a GitHub repository
-- View commit history
-- Identify strong and weak commit messages
-- Explain what changed in a commit
-- Understand why clear commit messages matter
-
-## Suggested Commands
-
-```bash
-git log
-git log --oneline
-git show <commit-id>
-git status
-```
-
-## Reminder
-
-Always check your GitHub repository before submitting work.
+- What changed
+- When it changed
+- Who changed it
+- Why the change may have been made
