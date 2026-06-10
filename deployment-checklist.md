@@ -4,3 +4,4 @@
 - Confirm contacts
 - Perform deployment
 - Verify backups
+- Notify stakeholders
